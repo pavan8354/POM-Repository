@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T06:49:17Z" name="Default suite" finished-at="2021-07-15T06:49:23Z" duration-ms="5930">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T06:49:17Z" name="Default test" finished-at="2021-07-15T06:49:23Z" duration-ms="5930">
+      <class name="Com.Qa.ParaBankDemo.ParaBankDemoAutomation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:17Z" name="setup" finished-at="2021-07-15T12:19:22Z" duration-ms="4699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutLinkTest()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:22Z" name="logoutLinkTest" finished-at="2021-07-15T12:19:22Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutLinkTest -->
+        <test-method signature="searchBarTest()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:22Z" name="searchBarTest" finished-at="2021-07-15T12:19:22Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBarTest -->
+        <test-method signature="verifyCredentialsTest()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:22Z" name="verifyCredentialsTest" finished-at="2021-07-15T12:19:23Z" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCredentialsTest -->
+        <test-method signature="verifypagetitlebefore()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:23Z" name="verifypagetitlebefore" finished-at="2021-07-15T12:19:23Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypagetitlebefore -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.Qa.ParaBankDemo.ParaBankDemoAutomation@6853425f]" started-at="2021-07-15T12:19:23Z" name="tearDown" finished-at="2021-07-15T12:19:23Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Qa.ParaBankDemo.ParaBankDemoAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
